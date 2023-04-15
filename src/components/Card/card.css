@@ -1,0 +1,12 @@
+.play:hover .btn-play {
+    display:block;
+    cursor: pointer;
+}
+.btn-play {
+    display: none;
+    z-index: 3;
+    position:absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
